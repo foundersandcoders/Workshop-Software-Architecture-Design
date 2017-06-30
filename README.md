@@ -29,8 +29,6 @@ Presentation on The Importance of Software Architecture -- see [pages 3-7](http:
 
 ### What Is Software Architecture Design?
 
-![pixelated building](https://static.pexels.com/photos/10643/photo-1442406964439-e46ab8eff7c4.jpg)
-
 - ##### Architecture is a *general* term for the overall structure of a software system. Fundamentally, it's about managing complexity.
 
 It is like showing a route on a map. Both the route and the map are abstractions of a more complicated reality, allowing us to find our way and conceptualise the landscape.
