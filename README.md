@@ -11,7 +11,7 @@ Clone this repo: `git clone https://github.com/lucyrose93/Workshop-Software-Arch
 
 ### Group Introduction To Topic
 
-Presentation on The Importance of Software Architecture -- see [pages 3-7](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf) as a group.
+Presentation on The Importance of Software Architecture -- see [pages 3-6](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf) as a group.
 
 ### What Is Software Architecture Design?
 
@@ -100,7 +100,7 @@ If you finish early, [here](https://msdn.microsoft.com/en-us/library/ee658124.as
 
 ## Exercise 3: Clean up your files
 
-Now's the perfect time to go back to your past projects on GitHub and neaten up the file structure.
+Now's the perfect time to go back to your past projects on GitHub, starting with your portfolio website perhaps, and think about how you could neaten up the file structure.
 
 ##### Remember:
 
