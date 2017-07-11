@@ -1,20 +1,6 @@
 # Introduction to Software Architecture Design
 
-### Schedule
-- Set Up and Learning Outcomes \ Individually \ 5 mins
-- Group Introduction to Topic \ 5 mins
-- Read "What Is Software Architecture Design?" \ Individually \ 5 mins   
-- Discuss ^ all together \ 5 mins
-- Exercise 1 \ All together \ 5 mins
-- Read "Why Is Architecture Important?" \ Individually \ 5 mins
-- Discuss ^ all together \ 5 mins
-- Read Types of Software architecture \ 5 mins
-- Go through Key Principles \ As a group \ 5 mins
-- Exercise 2 \ Pairs \ Restructure a file system \ 10 mins
-- Exercise 3 \ Individually \ 25 mins
-- Wrap up and present ideas \ 20 mins
-
-Total: < 2 hours
+### Getting Started
 
 Clone this repo: `git clone https://github.com/lucyrose93/Workshop-Software-Architecture-Design.git`
 
