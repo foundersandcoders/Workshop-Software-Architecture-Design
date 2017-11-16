@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-Clone this repo: `git clone https://github.com/lucyrose93/Workshop-Software-Architecture-Design.git`
+Clone this repo: `git clone https://github.com/foundersandcoders/Workshop-Software-Architecture-Design.git`
 
 ### Learning Outcomes
 - To understand the general importance of software architecture design.
