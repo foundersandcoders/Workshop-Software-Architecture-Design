@@ -19,7 +19,7 @@ Presentation on The Importance of Software Architecture -- see [pages 3-7](http:
 
 It is like showing a route on a map. Both the route and the map are abstractions of a more complicated reality, allowing us to find our way and conceptualise the landscape.
 
-![maps manage complexity](/maps-manage-complexity.png)
+![maps manage complexity](./maps-manage-complexity.png)
 
 - ##### Software architecture shows how all the parts of an app might interact with each other.
 
@@ -64,8 +64,7 @@ Conclusion is, Messy systems are costly and they cause frustrating delays.
 
 Clean and ordered systems mitigate complexity and make your life easier in the long run.  
 
-<blockquote>
-"The quality and longevity of a software system is determined by its architecture" -- Linda Northrop in ["The Importance of Software Architecture"](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf), Carnegie Mellon University.</blockquote>
+>"The quality and longevity of a software system is determined by its architecture" -- Linda Northrop in ["The Importance of Software Architecture"](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf), Carnegie Mellon University.
 
 ## Types of Software Architecture
 
@@ -85,8 +84,8 @@ When you are architecting an app, try to keep these **key principles** in mind:
 - How can you make it **easy to change**?
 - Can you **anticipate changes** that are likely to occur?
 
-<blockquote>"If you don't develop an architecture, you will get one anyway - and you might not like what you get!"
--- Northrop, [The Importance of Software Architecture](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf)</blockquote>
+>"If you don't develop an architecture, you will get one anyway - and you might not like what you get!"
+>-- Northrop, [The Importance of Software Architecture](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf)
 
 ## Exercise 2: Restructuring A File System
 
