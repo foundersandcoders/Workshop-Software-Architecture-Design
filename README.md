@@ -93,7 +93,7 @@ Your file structure is an architectural structure in its own right. Again, it is
 
 Keeping the Key Principles above in mind, how would you reorganise the files of this repository? (They are intentionally empty files, by the way.)
 
-_**Tip**: if you haven't done so already, you can run `apm install file-icons` so that all your atom icons have icons displaying in the file tree, making them easier to distinguish_
+_**Tip**: if you haven't done so already, you can run `npm install file-icons` so that all your atom icons have icons displaying in the file tree, making them easier to distinguish_
 
 If you finish early, [here](https://msdn.microsoft.com/en-us/library/ee658124.aspx#KeyDesignPrinciples) are some more detailed Key Principles.
 
