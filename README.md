@@ -5,6 +5,7 @@
 Clone this repo: `git clone https://github.com/foundersandcoders/Workshop-Software-Architecture-Design.git`
 
 ### Learning Outcomes
+
 - To understand the general importance of software architecture design.
 - To start developing the critical ability to identify distinct elements of your app and their relations.
 - To apply this knowledge, and learn how you might begin architecting an app pre-build.
@@ -15,7 +16,7 @@ Presentation on The Importance of Software Architecture -- see [pages 3-7](http:
 
 ### What Is Software Architecture Design?
 
-- ##### Architecture is a *general* term for the overall structure of a software system. Fundamentally, it's about managing complexity.
+- ##### Architecture is a _general_ term for the overall structure of a software system. Fundamentally, it's about managing complexity.
 
 It is like showing a route on a map. Both the route and the map are abstractions of a more complicated reality, allowing us to find our way and conceptualise the landscape.
 
@@ -49,10 +50,9 @@ The diagram below represents a complex reality (an API call) in an abstract way.
 - If you cannot whiteboard the architecture then it suggests that it is not well understood.
 - If you can provide a clear and concise whiteboard diagram, others will understand it and you can communicate details to them more easily.
 
-
 ## Why is Architecture Important?
 
-Good architecture is fundamental. It makes your system easier to maintain, test, extend, scale up (or down), and reason about. It makes it more *reliable*.
+Good architecture is fundamental. It makes your system easier to maintain, test, extend, scale up (or down), and reason about. It makes it more _reliable_.
 
 To use an analogy...
 
@@ -62,15 +62,15 @@ Scenario 2. All of your belongings are arranged according to categories. There's
 
 Conclusion is, Messy systems are costly and they cause frustrating delays.
 
-Clean and ordered systems mitigate complexity and make your life easier in the long run.  
+Clean and ordered systems mitigate complexity and make your life easier in the long run.
 
->"The quality and longevity of a software system is determined by its architecture" -- Linda Northrop in ["The Importance of Software Architecture"](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf), Carnegie Mellon University.
+> "The quality and longevity of a software system is determined by its architecture" -- Linda Northrop in ["The Importance of Software Architecture"](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf), Carnegie Mellon University.
 
 ## Types of Software Architecture
 
 There are many different approaches to architecting software, depending on the situation.
 
-For a comprehensive overview of different Architectural Styles and Patterns that people have developed, have a look at [this guide](https://msdn.microsoft.com/en-us/library/ee658117.aspx). But don't get overwhelmed; every application/product you work on will require a unique approach to architecture that you will learn on the go. Similarly, every organisation has its own in-house way of doing things.  
+For a comprehensive overview of different Architectural Styles and Patterns that people have developed, have a look at [this guide](https://msdn.microsoft.com/en-us/library/ee658117.aspx). But don't get overwhelmed; every application/product you work on will require a unique approach to architecture that you will learn on the go. Similarly, every organisation has its own in-house way of doing things.
 
 ## Key Principles To Keep in Mind :key:
 
@@ -84,8 +84,8 @@ When you are architecting an app, try to keep these **key principles** in mind:
 - How can you make it **easy to change**?
 - Can you **anticipate changes** that are likely to occur?
 
->"If you don't develop an architecture, you will get one anyway - and you might not like what you get!"
->-- Northrop, [The Importance of Software Architecture](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf)
+> "If you don't develop an architecture, you will get one anyway - and you might not like what you get!"
+> -- Northrop, [The Importance of Software Architecture](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf)
 
 ## Exercise 2: Restructuring A File System
 
@@ -93,7 +93,7 @@ Your file structure is an architectural structure in its own right. Again, it is
 
 Keeping the Key Principles above in mind, how would you reorganise the files of this repository? (They are intentionally empty files, by the way.)
 
-_**Tip**: if you haven't done so already, you can run `npm install file-icons` so that all your atom icons have icons displaying in the file tree, making them easier to distinguish_
+**Tip**: if you haven't done so already, you can run `websemantics/file-icons-js` so that all your files have icons that display in the file tree, making them easier to distinguish. Atom and VS Code also have extensions that do this e.g. Material Icon Theme.
 
 If you finish early, [here](https://msdn.microsoft.com/en-us/library/ee658124.aspx#KeyDesignPrinciples) are some more detailed Key Principles.
 
