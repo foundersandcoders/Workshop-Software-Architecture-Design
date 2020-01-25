@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-Clone this repo: `git clone https://github.com/foundersandcoders/Workshop-Software-Architecture-Design.git`
+Clone this repo: `https://github.com/MohammadAlhalaq/Workshop-Software-Architecture-Design.git`
 
 ### Learning Outcomes
 - To understand the general importance of software architecture design.
@@ -11,7 +11,7 @@ Clone this repo: `git clone https://github.com/foundersandcoders/Workshop-Softwa
 
 ### Group Introduction To Topic
 
-Presentation on The Importance of Software Architecture -- see [pages 3-7](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf) as a group.
+Presentation on The Importance of Software Architecture -- see [pages 3-7](https://drive.google.com/open?id=1PYrwuaMmbudzECW0q6H9bBjvjW-Nsqm3) as a group.
 
 ### What Is Software Architecture Design?
 
@@ -25,7 +25,7 @@ It is like showing a route on a map. Both the route and the map are abstractions
 
 - ##### Architectural concerns also affect our file structure and _how we write code_ in a macro way. We will cover architecture-friendly code in a later workshop.
 
-![file structure](http://www.talesfrompipeline.com/theme/images/file_structure.jpg)
+![file structure](hhttps://media.prod.mdn.mozit.cloud/attachments/2014/11/11/9231/c5b2b5fba968bc6d3d896b39409c889e/file-structure.png)
 
 ### Exercise 1: Read the steps below. We will map out an API call on the board taking into account the relationship between the [client](https://techterms.com/definition/client) and [server](https://techterms.com/definition/server).
 
@@ -64,7 +64,7 @@ Conclusion is, Messy systems are costly and they cause frustrating delays.
 
 Clean and ordered systems mitigate complexity and make your life easier in the long run.  
 
->"The quality and longevity of a software system is determined by its architecture" -- Linda Northrop in ["The Importance of Software Architecture"](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf), Carnegie Mellon University.
+>"The quality and longevity of a software system is determined by its architecture" -- Linda Northrop in ["The Importance of Software Architecture"](https://drive.google.com/open?id=1PYrwuaMmbudzECW0q6H9bBjvjW-Nsqm3), Carnegie Mellon University.
 
 ## Types of Software Architecture
 
@@ -85,7 +85,7 @@ When you are architecting an app, try to keep these **key principles** in mind:
 - Can you **anticipate changes** that are likely to occur?
 
 >"If you don't develop an architecture, you will get one anyway - and you might not like what you get!"
->-- Northrop, [The Importance of Software Architecture](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf)
+>-- Northrop, [The Importance of Software Architecture](https://drive.google.com/open?id=1PYrwuaMmbudzECW0q6H9bBjvjW-Nsqm3)
 
 ## Exercise 2: Restructuring A File System
 
