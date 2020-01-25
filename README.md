@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-Clone this repo: `https://github.com/MohammadAlhalaq/Workshop-Software-Architecture-Design.git`
+Clone this repo: `git clone https://github.com/MohammadAlhalaq/Workshop-Software-Architecture-Design.git`
 
 ### Learning Outcomes
 - To understand the general importance of software architecture design.
@@ -25,7 +25,7 @@ It is like showing a route on a map. Both the route and the map are abstractions
 
 - ##### Architectural concerns also affect our file structure and _how we write code_ in a macro way. We will cover architecture-friendly code in a later workshop.
 
-![file structure](hhttps://media.prod.mdn.mozit.cloud/attachments/2014/11/11/9231/c5b2b5fba968bc6d3d896b39409c889e/file-structure.png)
+![file structure](https://media.prod.mdn.mozit.cloud/attachments/2014/11/11/9231/c5b2b5fba968bc6d3d896b39409c889e/file-structure.png)
 
 ### Exercise 1: Read the steps below. We will map out an API call on the board taking into account the relationship between the [client](https://techterms.com/definition/client) and [server](https://techterms.com/definition/server).
 
