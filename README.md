@@ -11,7 +11,7 @@ Clone this repo: `git clone https://github.com/foundersandcoders/Workshop-Softwa
 
 ### Group Introduction To Topic
 
-Presentation on The Importance of Software Architecture -- see [pages 3-7](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf) as a group.
+Presentation on The Importance of Software Architecture -- see [pages 3-7](https://drive.google.com/open?id=1PYrwuaMmbudzECW0q6H9bBjvjW-Nsqm3) as a group.
 
 ### What Is Software Architecture Design?
 
@@ -64,7 +64,7 @@ Conclusion is, Messy systems are costly and they cause frustrating delays.
 
 Clean and ordered systems mitigate complexity and make your life easier in the long run.  
 
->"The quality and longevity of a software system is determined by its architecture" -- Linda Northrop in ["The Importance of Software Architecture"](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf), Carnegie Mellon University.
+>"The quality and longevity of a software system is determined by its architecture" -- Linda Northrop in ["The Importance of Software Architecture"](https://drive.google.com/open?id=1PYrwuaMmbudzECW0q6H9bBjvjW-Nsqm3), Carnegie Mellon University.
 
 ## Types of Software Architecture
 
@@ -85,7 +85,7 @@ When you are architecting an app, try to keep these **key principles** in mind:
 - Can you **anticipate changes** that are likely to occur?
 
 >"If you don't develop an architecture, you will get one anyway - and you might not like what you get!"
->-- Northrop, [The Importance of Software Architecture](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf)
+>-- Northrop, [The Importance of Software Architecture](https://drive.google.com/open?id=1PYrwuaMmbudzECW0q6H9bBjvjW-Nsqm3)
 
 ## Exercise 2: Restructuring A File System
 
